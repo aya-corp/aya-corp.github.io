@@ -20,7 +20,7 @@ Pour le développement et les test, Nordic semiconductor propose un kit de proto
 L'objectif du projet est de créer **un systeme de mise à jour à distance du Firmware**.
 Pour les besoins du projet et des tests, l'architecture peut etre resumé de la sorte :
 
-![Desktop View](/assets/img/presentation/cartonet.png){: width="972" height="589" }
+![Desktop View](https://raw.githubusercontent.com/aya-corp/aya-corp.github.io/main/assets/presentation/cartonet.png){: width="972" height="589" }
 _Cartographie résèau du projet_
 
 
