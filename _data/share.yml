@@ -13,7 +13,16 @@ platforms:
   - type: Telegram
     icon: "fab fa-telegram"
     link: "https://t.me/share/url?url=URL&text=TITLE"
+    
+  - type: Snap
+    icon: "fab fa-snapchat-square"
+    link: "https://snapchat.com/share?url=URL&title=TITLE"
 
+  - type: TikTok
+    icon: "fab fa-tiktok"
+    link: "https://www.tiktok.com/share?url=URL&title=TITLE"
+
+    
   # Uncomment below if you need to.
   #
   # - type: Linkedin
